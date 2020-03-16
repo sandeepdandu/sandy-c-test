@@ -11,4 +11,10 @@ int main()
 {
 char a[]="samsanhhygg";
 reverse(a);
+
+printf("%c",*str);
+printf("%c",*str);
+printf("%c",*str);
+printf("%c",*str);
+
 }
